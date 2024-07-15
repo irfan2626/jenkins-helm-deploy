@@ -1,4 +1,4 @@
-#pipeline for jenkins practice and learning purpose and also exploring it
+#pipeline for jenkins practice
 pipeline{
     agent any
     stages{
